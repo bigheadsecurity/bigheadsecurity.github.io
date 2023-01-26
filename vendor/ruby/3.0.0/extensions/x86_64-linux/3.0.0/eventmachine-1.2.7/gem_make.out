@@ -1,0 +1,16 @@
+current directory: /home/mrrobot1o1/github.com/sbsh/bigheadsecurity.github.io/vendor/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/mrrobot1o1/github.com/sbsh/bigheadsecurity.github.io/vendor/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230127-104784-sn0aj5 sitelibdir\=./.gem.20230127-104784-sn0aj5 clean
+
+current directory: /home/mrrobot1o1/github.com/sbsh/bigheadsecurity.github.io/vendor/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230127-104784-sn0aj5 sitelibdir\=./.gem.20230127-104784-sn0aj5
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/mrrobot1o1/github.com/sbsh/bigheadsecurity.github.io/vendor/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230127-104784-sn0aj5 sitelibdir\=./.gem.20230127-104784-sn0aj5 install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20230127-104784-sn0aj5
